@@ -1,0 +1,25 @@
+body{
+    background-image: url("assets/backgrounds/Wallpaper.jpg");
+    font-family: "Times New Roman", Times, Serif;
+}
+
+.mycontainer{
+    margin-top: 20vh;
+}
+
+@media only screen and (max-width: 576px){
+    .mycol1, .mycol2{
+        margin: 0 10% 0 10%;
+    }
+    .mycontainer{
+        text-align: center;
+        margin-top: 5vh;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .mycontainer{
+        text-align: center;
+        margin-top: 5vh;
+    }
+}
