@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exchange-currency-app/static/css/main.aaa49ca8.chunk.css",
+    "main.js": "/exchange-currency-app/static/js/main.6cbb53d4.chunk.js",
+    "main.js.map": "/exchange-currency-app/static/js/main.6cbb53d4.chunk.js.map",
+    "runtime~main.js": "/exchange-currency-app/static/js/runtime~main.014f1e16.js",
+    "runtime~main.js.map": "/exchange-currency-app/static/js/runtime~main.014f1e16.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/exchange-currency-app/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/exchange-currency-app/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/exchange-currency-app/index.html",
+    "precache-manifest.34c14b9136a4838d93c29b65cf37284b.js": "/exchange-currency-app/precache-manifest.34c14b9136a4838d93c29b65cf37284b.js",
+    "service-worker.js": "/exchange-currency-app/service-worker.js",
+    "static/css/main.aaa49ca8.chunk.css.map": "/exchange-currency-app/static/css/main.aaa49ca8.chunk.css.map",
+    "static/media/App.css": "/exchange-currency-app/static/media/Wallpaper.5cb0aef5.jpg"
+  }
+}
