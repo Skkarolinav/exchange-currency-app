@@ -1,6 +1,6 @@
 body{
-    background-image: url("assets/backgrounds/Wallpaper.jpg");
-    font-family: "Times New Roman", Times, Serif;
+    background-image: url('assets/backgrounds/Wallpaper.jpg');
+    font-family: 'Times New Roman', Times, Serif;
 }
 
 .mycontainer{

@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Exchange Currency",
+  "name": "Exchange Currency Converter Application",
   "icons": [
     {
       "src": "favicon.ico",
